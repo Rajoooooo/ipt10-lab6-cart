@@ -1,0 +1,22 @@
+Order Code: 35E91070A9
+Date and Time Ordered: 2024-09-13 08:05:29
+------------------------------
+Order Items:
+------------------------------
+Product ID: 1
+Product Name: 1Kg Sugar
+Price: 100 PHP
+------------------------------
+Product ID: 3
+Product Name: One Dozen Eggs
+Price: 200 PHP
+------------------------------
+Product ID: 4
+Product Name: 5Kg Sugar
+Price: 500 PHP
+------------------------------
+Product ID: 6
+Product Name: One Tray Eggs
+Price: 300 PHP
+------------------------------
+Total Price: 1100 PHP

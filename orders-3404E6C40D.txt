@@ -1,0 +1,10 @@
+Order Code: 3404E6C40D
+Date and Time Ordered: 2024-09-13 08:04:56
+------------------------------
+Order Items:
+------------------------------
+Product ID: 1
+Product Name: 1Kg Sugar
+Price: 100 PHP
+------------------------------
+Total Price: 100 PHP
